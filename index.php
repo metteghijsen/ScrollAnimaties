@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="stylesheet" href="style.css">
-    <title>Scroll Animaties</title>
+    <title>AOSjs Demo</title>
 </head>
 <body>
 <div class="content">
